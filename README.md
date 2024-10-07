@@ -13,6 +13,9 @@ This project implements an ultrasonic sensor-based parking system using an Ardui
 - Detects distance between the car and an obstacle.
 - Alerts via sound or light as the car approaches an obstacle.
 
+## Flowchart
+![Flowchart](images/flowchart-arduino.png)
+
 ## How to Use
 1. Connect the components as per the wiring diagram.
 2. Upload the provided `parkingsensor.cpp` code to the Arduino.
